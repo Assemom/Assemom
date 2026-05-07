@@ -9,6 +9,7 @@ Building scalable backend systems, clean APIs, and AI-powered applications.
 
 # 💫 About Me:
 💻 Full-Stack Software Engineer specialized in **ASP.NET Core, Angular, Blazor**<br>- 🏗️ Strong knowledge in **Clean Architecture, CQRS, REST APIs**<br>- 🤖 Working with **RAG Systems, LLM Integration, AI APIs**<br>- 🗄️ Experienced in **SQL Server, PostgreSQL, MongoDB, MySQL**<br>- 🐳 Interested in **Docker, scalable systems, enterprise backend architecture**<br>- 🌱 Currently improving my skills in **Full-Stack & System Design**
+<br>-📄My CV [https://shorturl.at/HPXzi](https://drive.google.com/drive/folders/18bCj9uVzdIktNSNICJerUz6pecNnbPCW?usp=sharing)
 
 
 ## 🌐 Socials:
