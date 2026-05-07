@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Assem Omar</h1>
+<h3 align="center">Full-Stack Software Engineer | Backend-Focused (.NET & Java)</h3>
+
+<p align="center">
+Building scalable backend systems, clean APIs, and AI-powered applications.
+</p>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
 # 💫 About Me:
 💻 Full-Stack Software Engineer specialized in **ASP.NET Core, Angular, Blazor**<br>- 🏗️ Strong knowledge in **Clean Architecture, CQRS, REST APIs**<br>- 🤖 Working with **RAG Systems, LLM Integration, AI APIs**<br>- 🗄️ Experienced in **SQL Server, PostgreSQL, MongoDB, MySQL**<br>- 🐳 Interested in **Docker, scalable systems, enterprise backend architecture**<br>- 🌱 Currently improving my skills in **Full-Stack & System Design**
 
